@@ -15,6 +15,10 @@ body {
   margin: 0 auto;
 }
 
+body::-webkit-scrollbar{
+  display: none;
+}
+
 * {
   font-family: "Poppins", sans-serif;
   margin: 0;
